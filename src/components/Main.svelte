@@ -67,7 +67,7 @@
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
             <!-- Project 1: PsychRoadMap -->
             <Step step={steps[0]}>
-                <ul class="list-disc text-left leading-relaxed">
+                <ul class="list-disc text-left leading-relaxed p-3">
                     <li> 
                         Led and coordinated a cross-functional team of seven as <strong class="text-violet-400">Project Manager</strong> through the entire software development lifecycle.
                     </li>
@@ -81,7 +81,7 @@
 
             <!-- Project 2: Math Success Center -->
             <Step step={steps[1]}>
-                <ul class="list-disc text-left leading-relaxed">
+                <ul class="list-disc text-left leading-relaxed p-3">
                     <li> 
                         <strong class="text-violet-400">Creator</strong> (Solo dev)
                     </li>
@@ -95,7 +95,7 @@
 
             <!-- Project 3: Chess Notation Trainer -->
             <Step step={steps[2]}>
-                <ul class="list-disc text-left leading-relaxed">
+                <ul class="list-disc text-left leading-relaxed p-3">
                     <li> 
                         <strong class="text-violet-400">Creator</strong> (Solo dev)
                     </li>
